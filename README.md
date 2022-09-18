@@ -26,4 +26,4 @@ Still in construction!
 
 ## License
 
-Naaa
+N/A
