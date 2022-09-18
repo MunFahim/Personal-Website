@@ -11,10 +11,6 @@ Still in construction!
 - Personal [**github**](https://github.com/MunFahim)
 - etc...
 
-
-```javascript
-```
-
 ## Languages Used
 ```javascript
 //  javascript
