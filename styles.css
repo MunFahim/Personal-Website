@@ -22,13 +22,11 @@ h1{
 }
 
 
-
 h1:hover{
 	transition: rotate 1s;
 	rotate: 9deg;
 	animation-name: move;
-	animation: move 2s reverse infinite, move 2s infinite;
-	
+	animation: move 1s infinite, move 2s reverse infinite;
 }
 
 img.nike{
