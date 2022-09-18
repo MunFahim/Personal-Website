@@ -89,6 +89,21 @@ img.nike{
 	animation: show 1s;
 }
 
+.Arrow-Button-Center{
+	display: flex;
+	justify-content: center;
+	margin-top: 150px;
+}
+.downArrow{
+	font-size: 50px;
+}
+.downArrow:hover{
+	font-size: 70px;
+}
+
+
+
+
 
 
 
