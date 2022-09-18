@@ -2,7 +2,6 @@
 
 ![](https://github.com/MunFahim/Personal-Website/blob/master/pageImages/main_page.JPG)
 
-
 Still in construction!
 
 ## Coming Soon!
@@ -12,15 +11,19 @@ Still in construction!
 - etc...
 
 ## Languages Used
+
 ```javascript
 //  javascript
 ```
+
 ```html
 <!-- html -->
 ```
+
 ```css
-// css
+/*css*/
 ```
 
 ## License
+
 Naaa
